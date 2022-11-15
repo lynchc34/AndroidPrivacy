@@ -1,7 +1,7 @@
 # AndroidPrivacy
 
 ## The Final Year project repo
-I plan to use this repo to keep track of final year project notes, documentation, commands *basically* everythigng and anything
+I plan to use this repo to keep track of final year project notes, documentation, commands *basically* everything and anything
 
 ## How Private Are Android Phones Really
 > Description
